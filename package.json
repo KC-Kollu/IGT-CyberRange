@@ -1,0 +1,25 @@
+{
+  "name": "igt-cyber-range",
+  "version": "1.0.0",
+  "description": "Ethical Hacking Virtual Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KC-Kollu/IGT-CyberRange.git"
+  },
+  "keywords": [
+    "Ethical",
+    "Hacking",
+    "Virtual",
+    "Lab"
+  ],
+  "author": "KrishnaChaitanyaKollu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KC-Kollu/IGT-CyberRange/issues"
+  },
+  "homepage": "https://github.com/KC-Kollu/IGT-CyberRange#readme"
+}
